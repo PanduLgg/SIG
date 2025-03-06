@@ -1,0 +1,3288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Map Kota/Kab Pulau Jawa</name>
+    <description/>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Wilayah I - Jawa Barat</name>
+      <Placemark>
+        <name>KABUPATEN BOGOR</name>
+        <description><![CDATA[id: 3201<br>province_id: 32<br>alt_name: KABUPATEN BOGOR<br>latitude: -6.58333<br>longitude: 106.71667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3201.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BOGOR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.58333</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.71667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.71667,-6.58333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SUKABUMI</name>
+        <description><![CDATA[id: 3202<br>province_id: 32<br>alt_name: KABUPATEN SUKABUMI<br>latitude: -7.06667<br>longitude: 106.7]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3202.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SUKABUMI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.06667</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.7,-7.06667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN CIANJUR</name>
+        <description><![CDATA[id: 3203<br>province_id: 32<br>alt_name: KABUPATEN CIANJUR<br>latitude: -6.7725<br>longitude: 107.08306]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3203.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN CIANJUR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.7725</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.08306</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.08306,-6.7725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANDUNG</name>
+        <description><![CDATA[id: 3204<br>province_id: 32<br>alt_name: KABUPATEN BANDUNG<br>latitude: -7.1<br>longitude: 107.6]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3204.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANDUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.1</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.6</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.6,-7.1,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN GARUT</name>
+        <description><![CDATA[id: 3205<br>province_id: 32<br>alt_name: KABUPATEN GARUT<br>latitude: -7.38333<br>longitude: 107.76667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3205.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN GARUT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.38333</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.76667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.76667,-7.38333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TASIKMALAYA</name>
+        <description><![CDATA[id: 3206<br>province_id: 32<br>alt_name: KABUPATEN TASIKMALAYA<br>latitude: -7.5<br>longitude: 108.13333]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3206.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TASIKMALAYA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.13333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.13333,-7.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN CIAMIS</name>
+        <description><![CDATA[id: 3207<br>province_id: 32<br>alt_name: KABUPATEN CIAMIS<br>latitude: -7.28333<br>longitude: 108.41667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3207.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN CIAMIS</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.28333</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.41667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.41667,-7.28333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KUNINGAN</name>
+        <description><![CDATA[id: 3208<br>province_id: 32<br>alt_name: KABUPATEN KUNINGAN<br>latitude: -7<br>longitude: 108.55]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3208.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KUNINGAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.55,-7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN CIREBON</name>
+        <description><![CDATA[id: 3209<br>province_id: 32<br>alt_name: KABUPATEN CIREBON<br>latitude: -6.8<br>longitude: 108.56667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3209.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN CIREBON</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.56667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.56667,-6.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MAJALENGKA</name>
+        <description><![CDATA[id: 3210<br>province_id: 32<br>alt_name: KABUPATEN MAJALENGKA<br>latitude: -6.81667<br>longitude: 108.28333]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3210.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MAJALENGKA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.81667</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.28333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.28333,-6.81667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SUMEDANG</name>
+        <description><![CDATA[id: 3211<br>province_id: 32<br>alt_name: KABUPATEN SUMEDANG<br>latitude: -6.8391687<br>longitude: 107.9112322]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3211.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SUMEDANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8391687</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.9112322</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.9112322,-6.8391687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN INDRAMAYU</name>
+        <description><![CDATA[id: 3212<br>province_id: 32<br>alt_name: KABUPATEN INDRAMAYU<br>latitude: -6.45<br>longitude: 108.16667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3212.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN INDRAMAYU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.45</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.16667,-6.45,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SUBANG</name>
+        <description><![CDATA[id: 3213<br>province_id: 32<br>alt_name: KABUPATEN SUBANG<br>latitude: -6.50833<br>longitude: 107.7025]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3213.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SUBANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.50833</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.7025</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.7025,-6.50833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PURWAKARTA</name>
+        <description><![CDATA[id: 3214<br>province_id: 32<br>alt_name: KABUPATEN PURWAKARTA<br>latitude: -6.58333<br>longitude: 107.45]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3214.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PURWAKARTA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.58333</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.45</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.45,-6.58333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KARAWANG</name>
+        <description><![CDATA[id: 3215<br>province_id: 32<br>alt_name: KABUPATEN KARAWANG<br>latitude: -6.26667<br>longitude: 107.41667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3215.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KARAWANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.26667</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.41667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.41667,-6.26667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BEKASI</name>
+        <description><![CDATA[id: 3216<br>province_id: 32<br>alt_name: KABUPATEN BEKASI<br>latitude: -6.24667<br>longitude: 107.10833]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3216.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BEKASI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.24667</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.10833</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.10833,-6.24667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANDUNG BARAT</name>
+        <description><![CDATA[id: 3217<br>province_id: 32<br>alt_name: KABUPATEN BANDUNG BARAT<br>latitude: -6.83333<br>longitude: 107.48333]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3217.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANDUNG BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.83333</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.48333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.48333,-6.83333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PANGANDARAN</name>
+        <description><![CDATA[id: 3218<br>province_id: 32<br>alt_name: KABUPATEN PANGANDARAN<br>latitude: -7.6805697<br>longitude: 108.6535879]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3218.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PANGANDARAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.6805697</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.6535879</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.6535879,-7.6805697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BOGOR</name>
+        <description><![CDATA[id: 3271<br>province_id: 32<br>alt_name: KOTA BOGOR<br>latitude: -6.59167<br>longitude: 106.8]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3271.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BOGOR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.59167</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8,-6.59167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SUKABUMI</name>
+        <description><![CDATA[id: 3272<br>province_id: 32<br>alt_name: KOTA SUKABUMI<br>latitude: -6.95<br>longitude: 106.93333]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3272.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SUKABUMI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.95</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.93333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.93333,-6.95,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BANDUNG</name>
+        <description><![CDATA[id: 3273<br>province_id: 32<br>alt_name: KOTA BANDUNG<br>latitude: -6.9175<br>longitude: 107.62444]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3273.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BANDUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9175</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.62444</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.62444,-6.9175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA CIREBON</name>
+        <description><![CDATA[id: 3274<br>province_id: 32<br>alt_name: KOTA CIREBON<br>latitude: -6.75<br>longitude: 108.55]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3274.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA CIREBON</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.75</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.55,-6.75,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BEKASI</name>
+        <description><![CDATA[id: 3275<br>province_id: 32<br>alt_name: KOTA BEKASI<br>latitude: -6.28333<br>longitude: 106.98333]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3275.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BEKASI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.28333</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.98333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.98333,-6.28333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA DEPOK</name>
+        <description><![CDATA[id: 3276<br>province_id: 32<br>alt_name: KOTA DEPOK<br>latitude: -6.4<br>longitude: 106.81667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3276.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA DEPOK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.4</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.81667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.81667,-6.4,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA CIMAHI</name>
+        <description><![CDATA[id: 3277<br>province_id: 32<br>alt_name: KOTA CIMAHI<br>latitude: -6.89167<br>longitude: 107.55]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3277.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA CIMAHI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.89167</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.55</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.55,-6.89167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA TASIKMALAYA</name>
+        <description><![CDATA[id: 3278<br>province_id: 32<br>alt_name: KOTA TASIKMALAYA<br>latitude: -7.35<br>longitude: 108.21667]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3278.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA TASIKMALAYA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.35</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.21667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.21667,-7.35,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BANJAR</name>
+        <description><![CDATA[id: 3279<br>province_id: 32<br>alt_name: KOTA BANJAR<br>latitude: -7.36996<br>longitude: 108.53209]]></description>
+        <styleUrl>#icon-1899-558B2F-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3279.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BANJAR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.36996</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.53209</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.53209,-7.36996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 2 - DKI Jakarta + Kep Seribu</name>
+      <Placemark>
+        <name>KABUPATEN KEPULAUAN SERIBU</name>
+        <description><![CDATA[id: 3101<br>province_id: 31<br>alt_name: KABUPATEN KEPULAUAN SERIBU<br>latitude: -5.5985<br>longitude: 106.55271]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3101.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KEPULAUAN SERIBU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-5.5985</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.55271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.55271,-5.5985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA JAKARTA SELATAN</name>
+        <description><![CDATA[id: 3171<br>province_id: 31<br>alt_name: KOTA JAKARTA SELATAN<br>latitude: -6.266<br>longitude: 106.8135]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3171.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA JAKARTA SELATAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.266</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8135</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8135,-6.266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA JAKARTA TIMUR</name>
+        <description><![CDATA[id: 3172<br>province_id: 31<br>alt_name: KOTA JAKARTA TIMUR<br>latitude: -6.2521<br>longitude: 106.884]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3172.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA JAKARTA TIMUR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2521</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.884</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.884,-6.2521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA JAKARTA PUSAT</name>
+        <description><![CDATA[id: 3173<br>province_id: 31<br>alt_name: KOTA JAKARTA PUSAT<br>latitude: -6.1777<br>longitude: 106.8403]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3173.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA JAKARTA PUSAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.1777</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8403</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8403,-6.1777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA JAKARTA BARAT</name>
+        <description><![CDATA[id: 3174<br>province_id: 31<br>alt_name: KOTA JAKARTA BARAT<br>latitude: -6.1676<br>longitude: 106.7673]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3174.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA JAKARTA BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.1676</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.7673</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.7673,-6.1676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA JAKARTA UTARA</name>
+        <description><![CDATA[id: 3175<br>province_id: 31<br>alt_name: KOTA JAKARTA UTARA<br>latitude: -6.1339<br>longitude: 106.8823]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3175.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA JAKARTA UTARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.1339</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.8823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.8823,-6.1339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 3 - Banten</name>
+      <Placemark>
+        <name>KABUPATEN PANDEGLANG</name>
+        <description><![CDATA[id: 3601<br>province_id: 36<br>alt_name: KABUPATEN PANDEGLANG<br>latitude: -6.63333<br>longitude: 105.75]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3601.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PANDEGLANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.63333</value>
+          </Data>
+          <Data name="longitude">
+            <value>105.75</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            105.75,-6.63333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN LEBAK</name>
+        <description><![CDATA[id: 3602<br>province_id: 36<br>alt_name: KABUPATEN LEBAK<br>latitude: -6.65<br>longitude: 106.21667]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3602.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN LEBAK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.65</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.21667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.21667,-6.65,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TANGERANG</name>
+        <description><![CDATA[id: 3603<br>province_id: 36<br>alt_name: KABUPATEN TANGERANG<br>latitude: -6.2<br>longitude: 106.46667]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3603.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TANGERANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.46667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.46667,-6.2,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SERANG</name>
+        <description><![CDATA[id: 3604<br>province_id: 36<br>alt_name: KABUPATEN SERANG<br>latitude: -6.15<br>longitude: 106]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3604.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SERANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.15</value>
+          </Data>
+          <Data name="longitude">
+            <value>106</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106,-6.15,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA TANGERANG</name>
+        <description><![CDATA[id: 3671<br>province_id: 36<br>alt_name: KOTA TANGERANG<br>latitude: -6.17944<br>longitude: 106.62991]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3671.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA TANGERANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.17944</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.62991</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.62991,-6.17944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA CILEGON</name>
+        <description><![CDATA[id: 3672<br>province_id: 36<br>alt_name: KOTA CILEGON<br>latitude: -6.01667<br>longitude: 106.01667]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3672.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA CILEGON</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.01667</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.01667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.01667,-6.01667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SERANG</name>
+        <description><![CDATA[id: 3673<br>province_id: 36<br>alt_name: KOTA SERANG<br>latitude: -6.12563<br>longitude: 106.14999]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3673.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SERANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.12563</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.14999</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.14999,-6.12563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA TANGERANG SELATAN</name>
+        <description><![CDATA[id: 3674<br>province_id: 36<br>alt_name: KOTA TANGERANG SELATAN<br>latitude: -6.29373<br>longitude: 106.71244]]></description>
+        <styleUrl>#icon-1899-795548-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3674.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA TANGERANG SELATAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.29373</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.71244</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.71244,-6.29373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 5 - DI Yogyakarta</name>
+      <Placemark>
+        <name>KABUPATEN KULON PROGO</name>
+        <description><![CDATA[id: 3401<br>province_id: 34<br>alt_name: KABUPATEN KULON PROGO<br>latitude: -7.645<br>longitude: 110.02694]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3401.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KULON PROGO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.645</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.02694</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.02694,-7.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANTUL</name>
+        <description><![CDATA[id: 3402<br>province_id: 34<br>alt_name: KABUPATEN BANTUL<br>latitude: -7.9<br>longitude: 110.36667]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3402.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANTUL</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.9</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.36667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.36667,-7.9,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN GUNUNG KIDUL</name>
+        <description><![CDATA[id: 3403<br>province_id: 34<br>alt_name: KABUPATEN GUNUNG KIDUL<br>latitude: -7.98333<br>longitude: 110.61667]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3403.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN GUNUNG KIDUL</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.98333</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.61667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.61667,-7.98333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SLEMAN</name>
+        <description><![CDATA[id: 3404<br>province_id: 34<br>alt_name: KABUPATEN SLEMAN<br>latitude: -7.68167<br>longitude: 110.32333]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3404.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SLEMAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.68167</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.32333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.32333,-7.68167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA YOGYAKARTA</name>
+        <description><![CDATA[id: 3471<br>province_id: 34<br>alt_name: KOTA YOGYAKARTA<br>latitude: -7.8<br>longitude: 110.375]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3471.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA YOGYAKARTA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.8</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.375</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.375,-7.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 6 - Jawa Timur</name>
+      <Placemark>
+        <name>KABUPATEN PACITAN</name>
+        <description><![CDATA[id: 3501<br>province_id: 35<br>alt_name: KABUPATEN PACITAN<br>latitude: -8.13333<br>longitude: 111.16667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3501.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PACITAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.13333</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.16667,-8.13333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PONOROGO</name>
+        <description><![CDATA[id: 3502<br>province_id: 35<br>alt_name: KABUPATEN PONOROGO<br>latitude: -7.93333<br>longitude: 111.5]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3502.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PONOROGO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.93333</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.5,-7.93333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TRENGGALEK</name>
+        <description><![CDATA[id: 3503<br>province_id: 35<br>alt_name: KABUPATEN TRENGGALEK<br>latitude: -8.16667<br>longitude: 111.61667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3503.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TRENGGALEK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.16667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.61667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.61667,-8.16667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TULUNGAGUNG</name>
+        <description><![CDATA[id: 3504<br>province_id: 35<br>alt_name: KABUPATEN TULUNGAGUNG<br>latitude: -8.11667<br>longitude: 111.91667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3504.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TULUNGAGUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.11667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.91667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.91667,-8.11667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BLITAR</name>
+        <description><![CDATA[id: 3505<br>province_id: 35<br>alt_name: KABUPATEN BLITAR<br>latitude: -8.13333<br>longitude: 112.25]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3505.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BLITAR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.13333</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.25,-8.13333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KEDIRI</name>
+        <description><![CDATA[id: 3506<br>province_id: 35<br>alt_name: KABUPATEN KEDIRI<br>latitude: -7.83333<br>longitude: 112.16667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3506.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KEDIRI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.83333</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.16667,-7.83333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MALANG</name>
+        <description><![CDATA[id: 3507<br>province_id: 35<br>alt_name: KABUPATEN MALANG<br>latitude: -8.16667<br>longitude: 112.66667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3507.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MALANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.16667</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.66667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.66667,-8.16667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN LUMAJANG</name>
+        <description><![CDATA[id: 3508<br>province_id: 35<br>alt_name: KABUPATEN LUMAJANG<br>latitude: -8.11667<br>longitude: 113.15]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3508.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN LUMAJANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.11667</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.15</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.15,-8.11667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN JEMBER</name>
+        <description><![CDATA[id: 3509<br>province_id: 35<br>alt_name: KABUPATEN JEMBER<br>latitude: -8.25<br>longitude: 113.65]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3509.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN JEMBER</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.25</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.65</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.65,-8.25,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANYUWANGI</name>
+        <description><![CDATA[id: 3510<br>province_id: 35<br>alt_name: KABUPATEN BANYUWANGI<br>latitude: -8.33333<br>longitude: 114.2]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3510.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANYUWANGI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.33333</value>
+          </Data>
+          <Data name="longitude">
+            <value>114.2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.2,-8.33333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BONDOWOSO</name>
+        <description><![CDATA[id: 3511<br>province_id: 35<br>alt_name: KABUPATEN BONDOWOSO<br>latitude: -7.9404<br>longitude: 113.9834]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3511.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BONDOWOSO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.9404</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.9834</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.9834,-7.9404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SITUBONDO</name>
+        <description><![CDATA[id: 3512<br>province_id: 35<br>alt_name: KABUPATEN SITUBONDO<br>latitude: -7.71667<br>longitude: 114.05]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3512.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SITUBONDO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.71667</value>
+          </Data>
+          <Data name="longitude">
+            <value>114.05</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.05,-7.71667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PROBOLINGGO</name>
+        <description><![CDATA[id: 3513<br>province_id: 35<br>alt_name: KABUPATEN PROBOLINGGO<br>latitude: -7.86667<br>longitude: 113.31667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3513.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PROBOLINGGO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.86667</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.31667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.31667,-7.86667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PASURUAN</name>
+        <description><![CDATA[id: 3514<br>province_id: 35<br>alt_name: KABUPATEN PASURUAN<br>latitude: -7.73333<br>longitude: 112.83333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3514.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PASURUAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.73333</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.83333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.83333,-7.73333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SIDOARJO</name>
+        <description><![CDATA[id: 3515<br>province_id: 35<br>alt_name: KABUPATEN SIDOARJO<br>latitude: -7.45<br>longitude: 112.7]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3515.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SIDOARJO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.45</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.7,-7.45,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MOJOKERTO</name>
+        <description><![CDATA[id: 3516<br>province_id: 35<br>alt_name: KABUPATEN MOJOKERTO<br>latitude: -7.55<br>longitude: 112.5]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3516.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MOJOKERTO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.55</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.5,-7.55,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN JOMBANG</name>
+        <description><![CDATA[id: 3517<br>province_id: 35<br>alt_name: KABUPATEN JOMBANG<br>latitude: -7.55<br>longitude: 112.25]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3517.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN JOMBANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.55</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.25,-7.55,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN NGANJUK</name>
+        <description><![CDATA[id: 3518<br>province_id: 35<br>alt_name: KABUPATEN NGANJUK<br>latitude: -7.6<br>longitude: 111.93333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3518.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN NGANJUK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.6</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.93333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.93333,-7.6,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MADIUN</name>
+        <description><![CDATA[id: 3519<br>province_id: 35<br>alt_name: KABUPATEN MADIUN<br>latitude: -7.61667<br>longitude: 111.65]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3519.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MADIUN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.61667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.65</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.65,-7.61667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MAGETAN</name>
+        <description><![CDATA[id: 3520<br>province_id: 35<br>alt_name: KABUPATEN MAGETAN<br>latitude: -7.64472<br>longitude: 111.35917]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3520.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MAGETAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.64472</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.35917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.35917,-7.64472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN NGAWI</name>
+        <description><![CDATA[id: 3521<br>province_id: 35<br>alt_name: KABUPATEN NGAWI<br>latitude: -7.47444<br>longitude: 111.33444]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3521.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN NGAWI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.47444</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.33444</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.33444,-7.47444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BOJONEGORO</name>
+        <description><![CDATA[id: 3522<br>province_id: 35<br>alt_name: KABUPATEN BOJONEGORO<br>latitude: -7.25<br>longitude: 111.8]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3522.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BOJONEGORO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.25</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.8,-7.25,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TUBAN</name>
+        <description><![CDATA[id: 3523<br>province_id: 35<br>alt_name: KABUPATEN TUBAN<br>latitude: -6.96667<br>longitude: 111.9]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3523.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TUBAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.96667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.9,-6.96667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN LAMONGAN</name>
+        <description><![CDATA[id: 3524<br>province_id: 35<br>alt_name: KABUPATEN LAMONGAN<br>latitude: -7.13333<br>longitude: 112.31667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3524.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN LAMONGAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.13333</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.31667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.31667,-7.13333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN GRESIK</name>
+        <description><![CDATA[id: 3525<br>province_id: 35<br>alt_name: KABUPATEN GRESIK<br>latitude: -7.1933<br>longitude: 112.553]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3525.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN GRESIK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.1933</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.553</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.553,-7.1933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANGKALAN</name>
+        <description><![CDATA[id: 3526<br>province_id: 35<br>alt_name: KABUPATEN BANGKALAN<br>latitude: -7.05<br>longitude: 112.93333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3526.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANGKALAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.05</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.93333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.93333,-7.05,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SAMPANG</name>
+        <description><![CDATA[id: 3527<br>province_id: 35<br>alt_name: KABUPATEN SAMPANG<br>latitude: -7.05<br>longitude: 113.25]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3527.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SAMPANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.05</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.25</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.25,-7.05,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PAMEKASAN</name>
+        <description><![CDATA[id: 3528<br>province_id: 35<br>alt_name: KABUPATEN PAMEKASAN<br>latitude: -7.06667<br>longitude: 113.5]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3528.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PAMEKASAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.06667</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.5,-7.06667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SUMENEP</name>
+        <description><![CDATA[id: 3529<br>province_id: 35<br>alt_name: KABUPATEN SUMENEP<br>latitude: -7.11667<br>longitude: 114.33333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3529.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SUMENEP</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.11667</value>
+          </Data>
+          <Data name="longitude">
+            <value>114.33333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.33333,-7.11667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA KEDIRI</name>
+        <description><![CDATA[id: 3571<br>province_id: 35<br>alt_name: KOTA KEDIRI<br>latitude: -7.83333<br>longitude: 112.01667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3571.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA KEDIRI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.83333</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.01667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.01667,-7.83333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BLITAR</name>
+        <description><![CDATA[id: 3572<br>province_id: 35<br>alt_name: KOTA BLITAR<br>latitude: -8.1<br>longitude: 112.16667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3572.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BLITAR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.1</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.16667,-8.1,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA MALANG</name>
+        <description><![CDATA[id: 3573<br>province_id: 35<br>alt_name: KOTA MALANG<br>latitude: -7.975<br>longitude: 112.63333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3573.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA MALANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.975</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.63333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.63333,-7.975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA PROBOLINGGO</name>
+        <description><![CDATA[id: 3574<br>province_id: 35<br>alt_name: KOTA PROBOLINGGO<br>latitude: -7.78333<br>longitude: 113.21667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3574.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA PROBOLINGGO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.78333</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.21667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.21667,-7.78333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA PASURUAN</name>
+        <description><![CDATA[id: 3575<br>province_id: 35<br>alt_name: KOTA PASURUAN<br>latitude: -7.65<br>longitude: 112.9]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3575.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA PASURUAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.65</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.9,-7.65,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA MOJOKERTO</name>
+        <description><![CDATA[id: 3576<br>province_id: 35<br>alt_name: KOTA MOJOKERTO<br>latitude: -7.46667<br>longitude: 112.43333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3576.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA MOJOKERTO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.46667</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.43333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.43333,-7.46667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA MADIUN</name>
+        <description><![CDATA[id: 3577<br>province_id: 35<br>alt_name: KOTA MADIUN<br>latitude: -7.63333<br>longitude: 111.53333]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3577.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA MADIUN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.63333</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.53333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.53333,-7.63333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SURABAYA</name>
+        <description><![CDATA[id: 3578<br>province_id: 35<br>alt_name: KOTA SURABAYA<br>latitude: -7.26667<br>longitude: 112.71667]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3578.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SURABAYA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.26667</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.71667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.71667,-7.26667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA BATU</name>
+        <description><![CDATA[id: 3579<br>province_id: 35<br>alt_name: KOTA BATU<br>latitude: -7.83272<br>longitude: 112.53751]]></description>
+        <styleUrl>#icon-1899-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3579.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA BATU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.83272</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.53751</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.53751,-7.83272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 4 - Jawa Tengah</name>
+      <Placemark>
+        <name>KABUPATEN CILACAP</name>
+        <description><![CDATA[id: 3301<br>province_id: 33<br>alt_name: KABUPATEN CILACAP<br>latitude: -7.57417<br>longitude: 108.98861]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3301.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN CILACAP</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.57417</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.98861</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.98861,-7.57417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANYUMAS</name>
+        <description><![CDATA[id: 3302<br>province_id: 33<br>alt_name: KABUPATEN BANYUMAS<br>latitude: -7.45<br>longitude: 109.16667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3302.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANYUMAS</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.45</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.16667,-7.45,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PURBALINGGA</name>
+        <description><![CDATA[id: 3303<br>province_id: 33<br>alt_name: KABUPATEN PURBALINGGA<br>latitude: -7.28417<br>longitude: 109.35028]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3303.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PURBALINGGA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.28417</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.35028</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.35028,-7.28417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BANJARNEGARA</name>
+        <description><![CDATA[id: 3304<br>province_id: 33<br>alt_name: KABUPATEN BANJARNEGARA<br>latitude: -7.35111<br>longitude: 109.5875]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3304.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BANJARNEGARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.35111</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.5875</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.5875,-7.35111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KEBUMEN</name>
+        <description><![CDATA[id: 3305<br>province_id: 33<br>alt_name: KABUPATEN KEBUMEN<br>latitude: -7.63917<br>longitude: 109.66056]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3305.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KEBUMEN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.63917</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.66056</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.66056,-7.63917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PURWOREJO</name>
+        <description><![CDATA[id: 3306<br>province_id: 33<br>alt_name: KABUPATEN PURWOREJO<br>latitude: -7.7<br>longitude: 109.96667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3306.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PURWOREJO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.7</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.96667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.96667,-7.7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN WONOSOBO</name>
+        <description><![CDATA[id: 3307<br>province_id: 33<br>alt_name: KABUPATEN WONOSOBO<br>latitude: -7.36139<br>longitude: 109.92667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3307.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN WONOSOBO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.36139</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.92667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.92667,-7.36139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN MAGELANG</name>
+        <description><![CDATA[id: 3308<br>province_id: 33<br>alt_name: KABUPATEN MAGELANG<br>latitude: -7.4275<br>longitude: 110.16194]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3308.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN MAGELANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.4275</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.16194</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.16194,-7.4275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BOYOLALI</name>
+        <description><![CDATA[id: 3309<br>province_id: 33<br>alt_name: KABUPATEN BOYOLALI<br>latitude: -7.5<br>longitude: 110.7]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3309.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BOYOLALI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.7,-7.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KLATEN</name>
+        <description><![CDATA[id: 3310<br>province_id: 33<br>alt_name: KABUPATEN KLATEN<br>latitude: -7.68333<br>longitude: 110.61667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3310.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KLATEN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.68333</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.61667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.61667,-7.68333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SUKOHARJO</name>
+        <description><![CDATA[id: 3311<br>province_id: 33<br>alt_name: KABUPATEN SUKOHARJO<br>latitude: -7.68333<br>longitude: 110.83333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3311.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SUKOHARJO</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.68333</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.83333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.83333,-7.68333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN WONOGIRI</name>
+        <description><![CDATA[id: 3312<br>province_id: 33<br>alt_name: KABUPATEN WONOGIRI<br>latitude: -7.91667<br>longitude: 111]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3312.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN WONOGIRI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.91667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111,-7.91667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KARANGANYAR</name>
+        <description><![CDATA[id: 3313<br>province_id: 33<br>alt_name: KABUPATEN KARANGANYAR<br>latitude: -7.62806<br>longitude: 111.0625]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3313.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KARANGANYAR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.62806</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.0625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.0625,-7.62806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SRAGEN</name>
+        <description><![CDATA[id: 3314<br>province_id: 33<br>alt_name: KABUPATEN SRAGEN<br>latitude: -7.41278<br>longitude: 110.935]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3314.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SRAGEN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.41278</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.935</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.935,-7.41278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN GROBOGAN</name>
+        <description><![CDATA[id: 3315<br>province_id: 33<br>alt_name: KABUPATEN GROBOGAN<br>latitude: -7.11667<br>longitude: 110.91667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3315.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN GROBOGAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.11667</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.91667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.91667,-7.11667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BLORA</name>
+        <description><![CDATA[id: 3316<br>province_id: 33<br>alt_name: KABUPATEN BLORA<br>latitude: -7.06667<br>longitude: 111.38333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3316.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BLORA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.06667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.38333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.38333,-7.06667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN REMBANG</name>
+        <description><![CDATA[id: 3317<br>province_id: 33<br>alt_name: KABUPATEN REMBANG<br>latitude: -6.78333<br>longitude: 111.46667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3317.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN REMBANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.78333</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.46667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.46667,-6.78333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PATI</name>
+        <description><![CDATA[id: 3318<br>province_id: 33<br>alt_name: KABUPATEN PATI<br>latitude: -6.76667<br>longitude: 111.1]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3318.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PATI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.76667</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.1,-6.76667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KUDUS</name>
+        <description><![CDATA[id: 3319<br>province_id: 33<br>alt_name: KABUPATEN KUDUS<br>latitude: -6.8<br>longitude: 110.86667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3319.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KUDUS</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.86667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.86667,-6.8,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN JEPARA</name>
+        <description><![CDATA[id: 3320<br>province_id: 33<br>alt_name: KABUPATEN JEPARA<br>latitude: -6.58333<br>longitude: 110.76667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3320.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN JEPARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.58333</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.76667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.76667,-6.58333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN DEMAK</name>
+        <description><![CDATA[id: 3321<br>province_id: 33<br>alt_name: KABUPATEN DEMAK<br>latitude: -6.8993<br>longitude: 110.6122]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3321.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN DEMAK</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8993</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.6122</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.6122,-6.8993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN SEMARANG</name>
+        <description><![CDATA[id: 3322<br>province_id: 33<br>alt_name: KABUPATEN SEMARANG<br>latitude: -7.20667<br>longitude: 110.44139]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3322.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN SEMARANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.20667</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.44139</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.44139,-7.20667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TEMANGGUNG</name>
+        <description><![CDATA[id: 3323<br>province_id: 33<br>alt_name: KABUPATEN TEMANGGUNG<br>latitude: -7.25<br>longitude: 110.11667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3323.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TEMANGGUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.25</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.11667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.11667,-7.25,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN KENDAL</name>
+        <description><![CDATA[id: 3324<br>province_id: 33<br>alt_name: KABUPATEN KENDAL<br>latitude: -7.0256<br>longitude: 110.1685]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3324.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN KENDAL</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.0256</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.1685</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.1685,-7.0256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BATANG</name>
+        <description><![CDATA[id: 3325<br>province_id: 33<br>alt_name: KABUPATEN BATANG<br>latitude: -7.03333<br>longitude: 109.88333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3325.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BATANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.03333</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.88333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.88333,-7.03333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PEKALONGAN</name>
+        <description><![CDATA[id: 3326<br>province_id: 33<br>alt_name: KABUPATEN PEKALONGAN<br>latitude: -7.0319<br>longitude: 109.624]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3326.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PEKALONGAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.0319</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.624</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.624,-7.0319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN PEMALANG</name>
+        <description><![CDATA[id: 3327<br>province_id: 33<br>alt_name: KABUPATEN PEMALANG<br>latitude: -7.03333<br>longitude: 109.4]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3327.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN PEMALANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.03333</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.4,-7.03333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN TEGAL</name>
+        <description><![CDATA[id: 3328<br>province_id: 33<br>alt_name: KABUPATEN TEGAL<br>latitude: -7.03333<br>longitude: 109.16667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3328.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN TEGAL</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.03333</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.16667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.16667,-7.03333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KABUPATEN BREBES</name>
+        <description><![CDATA[id: 3329<br>province_id: 33<br>alt_name: KABUPATEN BREBES<br>latitude: -7.05<br>longitude: 108.9]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3329.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KABUPATEN BREBES</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.05</value>
+          </Data>
+          <Data name="longitude">
+            <value>108.9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            108.9,-7.05,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA MAGELANG</name>
+        <description><![CDATA[id: 3371<br>province_id: 33<br>alt_name: KOTA MAGELANG<br>latitude: -7.5<br>longitude: 110.225]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3371.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA MAGELANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.5</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.225</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.225,-7.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SURAKARTA</name>
+        <description><![CDATA[id: 3372<br>province_id: 33<br>alt_name: KOTA SURAKARTA<br>latitude: -7.55<br>longitude: 110.81667]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3372.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SURAKARTA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.55</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.81667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.81667,-7.55,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SALATIGA</name>
+        <description><![CDATA[id: 3373<br>province_id: 33<br>alt_name: KOTA SALATIGA<br>latitude: -7.33278<br>longitude: 110.48333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3373.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SALATIGA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.33278</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.48333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.48333,-7.33278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA SEMARANG</name>
+        <description><![CDATA[id: 3374<br>province_id: 33<br>alt_name: KOTA SEMARANG<br>latitude: -7.03333<br>longitude: 110.38333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3374.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA SEMARANG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.03333</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.38333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.38333,-7.03333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA PEKALONGAN</name>
+        <description><![CDATA[id: 3375<br>province_id: 33<br>alt_name: KOTA PEKALONGAN<br>latitude: -6.9<br>longitude: 109.68333]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3375.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA PEKALONGAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.9</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.68333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.68333,-6.9,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KOTA TEGAL</name>
+        <description><![CDATA[id: 3376<br>province_id: 33<br>alt_name: KOTA TEGAL<br>latitude: -6.8686<br>longitude: 109.1129]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>3376.0</value>
+          </Data>
+          <Data name="province_id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KOTA TEGAL</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.8686</value>
+          </Data>
+          <Data name="longitude">
+            <value>109.1129</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            109.1129,-6.8686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

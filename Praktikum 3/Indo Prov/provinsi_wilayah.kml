@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>provinsi_wilayah</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Wilayah 1-Sumatera</name>
+      <Placemark>
+        <name>ACEH</name>
+        <description><![CDATA[id: 11<br>alt_name: ACEH<br>latitude: 4.36855<br>longitude: 97.0253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>11.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>ACEH</value>
+          </Data>
+          <Data name="latitude">
+            <value>4.36855</value>
+          </Data>
+          <Data name="longitude">
+            <value>97.0253</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            97.0253,4.36855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUMATERA UTARA</name>
+        <description><![CDATA[id: 12<br>alt_name: SUMATERA UTARA<br>latitude: 2.19235<br>longitude: 99.38122]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>12.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SUMATERA UTARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>2.19235</value>
+          </Data>
+          <Data name="longitude">
+            <value>99.38122</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            99.38122,2.19235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUMATERA BARAT</name>
+        <description><![CDATA[id: 13<br>alt_name: SUMATERA BARAT<br>latitude: -0.9330876<br>longitude: 100.7380267]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>13.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SUMATERA BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-0.9330876</value>
+          </Data>
+          <Data name="longitude">
+            <value>100.7380267</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            100.7380267,-0.9330876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIAU</name>
+        <description><![CDATA[id: 14<br>alt_name: RIAU<br>latitude: 0.50041<br>longitude: 101.54758]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>14.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>RIAU</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.50041</value>
+          </Data>
+          <Data name="longitude">
+            <value>101.54758</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            101.54758,0.50041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAMBI</name>
+        <description><![CDATA[id: 15<br>alt_name: JAMBI<br>latitude: -1.61157<br>longitude: 102.7797]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>15.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>JAMBI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.61157</value>
+          </Data>
+          <Data name="longitude">
+            <value>102.7797</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.7797,-1.61157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUMATERA SELATAN</name>
+        <description><![CDATA[id: 16<br>alt_name: SUMATERA SELATAN<br>latitude: -3.12668<br>longitude: 104.09306]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>16.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SUMATERA SELATAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.12668</value>
+          </Data>
+          <Data name="longitude">
+            <value>104.09306</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.09306,-3.12668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BENGKULU</name>
+        <description><![CDATA[id: 17<br>alt_name: BENGKULU<br>latitude: -3.51868<br>longitude: 102.53598]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>17.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>BENGKULU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.51868</value>
+          </Data>
+          <Data name="longitude">
+            <value>102.53598</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            102.53598,-3.51868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAMPUNG</name>
+        <description><![CDATA[id: 18<br>alt_name: LAMPUNG<br>latitude: -4.8555<br>longitude: 105.0273]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>18.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>LAMPUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-4.8555</value>
+          </Data>
+          <Data name="longitude">
+            <value>105.0273</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            105.0273,-4.8555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KEPULAUAN BANGKA BELITUNG</name>
+        <description><![CDATA[id: 19<br>alt_name: KEPULAUAN BANGKA BELITUNG<br>latitude: -2.689162<br>longitude: 106.5677052]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>19.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KEPULAUAN BANGKA BELITUNG</value>
+          </Data>
+          <Data name="latitude">
+            <value>-2.689162</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.5677052</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.5677052,-2.689162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KEPULAUAN RIAU</name>
+        <description><![CDATA[id: 21<br>alt_name: KEPULAUAN RIAU<br>latitude: -0.15478<br>longitude: 104.58037]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>21.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KEPULAUAN RIAU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-0.15478</value>
+          </Data>
+          <Data name="longitude">
+            <value>104.58037</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.58037,-0.15478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 2-Jawa Bali</name>
+      <Placemark>
+        <name>DKI JAKARTA</name>
+        <description><![CDATA[id: 31<br>alt_name: DKI JAKARTA<br>latitude: -6.2158963<br>longitude: 106.821325]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>31.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>DKI JAKARTA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.2158963</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.821325</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.821325,-6.2158963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAWA BARAT</name>
+        <description><![CDATA[id: 32<br>alt_name: JAWA BARAT<br>latitude: -6.88917<br>longitude: 107.64047]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>32.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>JAWA BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.88917</value>
+          </Data>
+          <Data name="longitude">
+            <value>107.64047</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            107.64047,-6.88917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAWA TENGAH</name>
+        <description><![CDATA[id: 33<br>alt_name: JAWA TENGAH<br>latitude: -7.30324<br>longitude: 110.00441]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>33.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>JAWA TENGAH</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.30324</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.00441</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.00441,-7.30324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DI YOGYAKARTA</name>
+        <description><![CDATA[id: 34<br>alt_name: DI YOGYAKARTA<br>latitude: -7.914558<br>longitude: 110.3697113]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>34.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>DI YOGYAKARTA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.914558</value>
+          </Data>
+          <Data name="longitude">
+            <value>110.3697113</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            110.3697113,-7.914558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JAWA TIMUR</name>
+        <description><![CDATA[id: 35<br>alt_name: JAWA TIMUR<br>latitude: -7.3827909<br>longitude: 112.6177432]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>35.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>JAWA TIMUR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-7.3827909</value>
+          </Data>
+          <Data name="longitude">
+            <value>112.6177432</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            112.6177432,-7.3827909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BANTEN</name>
+        <description><![CDATA[id: 36<br>alt_name: BANTEN<br>latitude: -6.44538<br>longitude: 106.13756]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>36.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>BANTEN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-6.44538</value>
+          </Data>
+          <Data name="longitude">
+            <value>106.13756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            106.13756,-6.44538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BALI</name>
+        <description><![CDATA[id: 51<br>alt_name: BALI<br>latitude: -8.23566<br>longitude: 115.12239]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>51.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>BALI</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.23566</value>
+          </Data>
+          <Data name="longitude">
+            <value>115.12239</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.12239,-8.23566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 3- Kalimantan</name>
+      <Placemark>
+        <name>KALIMANTAN BARAT</name>
+        <description><![CDATA[id: 61<br>alt_name: KALIMANTAN BARAT<br>latitude: -0.13224<br>longitude: 111.09689]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>61.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KALIMANTAN BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-0.13224</value>
+          </Data>
+          <Data name="longitude">
+            <value>111.09689</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            111.09689,-0.13224,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KALIMANTAN TENGAH</name>
+        <description><![CDATA[id: 62<br>alt_name: KALIMANTAN TENGAH<br>latitude: -1.49958<br>longitude: 113.29033]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>62.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KALIMANTAN TENGAH</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.49958</value>
+          </Data>
+          <Data name="longitude">
+            <value>113.29033</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            113.29033,-1.49958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KALIMANTAN SELATAN</name>
+        <description><![CDATA[id: 63<br>alt_name: KALIMANTAN SELATAN<br>latitude: -2.94348<br>longitude: 115.37565]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>63.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KALIMANTAN SELATAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-2.94348</value>
+          </Data>
+          <Data name="longitude">
+            <value>115.37565</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.37565,-2.94348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KALIMANTAN TIMUR</name>
+        <description><![CDATA[id: 64<br>alt_name: KALIMANTAN TIMUR<br>latitude: 0.78844<br>longitude: 116.242]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>64.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KALIMANTAN TIMUR</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.78844</value>
+          </Data>
+          <Data name="longitude">
+            <value>116.242</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.242,0.78844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KALIMANTAN UTARA</name>
+        <description><![CDATA[id: 65<br>alt_name: KALIMANTAN UTARA<br>latitude: 3.1483387<br>longitude: 116.5924011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>65.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>KALIMANTAN UTARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>3.1483387</value>
+          </Data>
+          <Data name="longitude">
+            <value>116.5924011</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            116.5924011,3.1483387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 4- Sulawesi</name>
+      <Placemark>
+        <name>SULAWESI UTARA</name>
+        <description><![CDATA[id: 71<br>alt_name: SULAWESI UTARA<br>latitude: 0.8423149<br>longitude: 124.5186167]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>71.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SULAWESI UTARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.8423149</value>
+          </Data>
+          <Data name="longitude">
+            <value>124.5186167</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            124.5186167,0.8423149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SULAWESI TENGAH</name>
+        <description><![CDATA[id: 72<br>alt_name: SULAWESI TENGAH<br>latitude: -1.69378<br>longitude: 120.80886]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>72.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SULAWESI TENGAH</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.69378</value>
+          </Data>
+          <Data name="longitude">
+            <value>120.80886</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.80886,-1.69378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SULAWESI SELATAN</name>
+        <description><![CDATA[id: 73<br>alt_name: SULAWESI SELATAN<br>latitude: -3.9078051<br>longitude: 119.9801414]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>73.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SULAWESI SELATAN</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.9078051</value>
+          </Data>
+          <Data name="longitude">
+            <value>119.9801414</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            119.9801414,-3.9078051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SULAWESI TENGGARA</name>
+        <description><![CDATA[id: 74<br>alt_name: SULAWESI TENGGARA<br>latitude: -3.54912<br>longitude: 121.72796]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>74.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SULAWESI TENGGARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.54912</value>
+          </Data>
+          <Data name="longitude">
+            <value>121.72796</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.72796,-3.54912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GORONTALO</name>
+        <description><![CDATA[id: 75<br>alt_name: GORONTALO<br>latitude: 0.71862<br>longitude: 122.45559]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>75.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>GORONTALO</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.71862</value>
+          </Data>
+          <Data name="longitude">
+            <value>122.45559</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            122.45559,0.71862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SULAWESI BARAT</name>
+        <description><![CDATA[id: 76<br>alt_name: SULAWESI BARAT<br>latitude: -2.49745<br>longitude: 119.3919]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>76.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>SULAWESI BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-2.49745</value>
+          </Data>
+          <Data name="longitude">
+            <value>119.3919</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            119.3919,-2.49745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Wilayah 5 - Indonesia Timur</name>
+      <Placemark>
+        <name>NUSA TENGGARA BARAT</name>
+        <description><![CDATA[id: 52<br>alt_name: NUSA TENGGARA BARAT<br>latitude: -8.7847168<br>longitude: 117.5820591]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>52.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>NUSA TENGGARA BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.7847168</value>
+          </Data>
+          <Data name="longitude">
+            <value>117.5820591</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            117.5820591,-8.7847168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NUSA TENGGARA TIMUR</name>
+        <description><![CDATA[id: 53<br>alt_name: NUSA TENGGARA TIMUR<br>latitude: -8.7177766<br>longitude: 120.9834986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>53.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>NUSA TENGGARA TIMUR</value>
+          </Data>
+          <Data name="latitude">
+            <value>-8.7177766</value>
+          </Data>
+          <Data name="longitude">
+            <value>120.9834986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.9834986,-8.7177766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MALUKU</name>
+        <description><![CDATA[id: 81<br>alt_name: MALUKU<br>latitude: -3.11884<br>longitude: 129.42078]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>81.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>MALUKU</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.11884</value>
+          </Data>
+          <Data name="longitude">
+            <value>129.42078</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            129.42078,-3.11884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MALUKU UTARA</name>
+        <description><![CDATA[id: 82<br>alt_name: MALUKU UTARA<br>latitude: 0.63012<br>longitude: 127.97202]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>82.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>MALUKU UTARA</value>
+          </Data>
+          <Data name="latitude">
+            <value>0.63012</value>
+          </Data>
+          <Data name="longitude">
+            <value>127.97202</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.97202,0.63012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAPUA BARAT</name>
+        <description><![CDATA[id: 91<br>alt_name: PAPUA BARAT<br>latitude: -1.38424<br>longitude: 132.90253]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>91.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>PAPUA BARAT</value>
+          </Data>
+          <Data name="latitude">
+            <value>-1.38424</value>
+          </Data>
+          <Data name="longitude">
+            <value>132.90253</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            132.90253,-1.38424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAPUA</name>
+        <description><![CDATA[id: 94<br>alt_name: PAPUA<br>latitude: -3.98857<br>longitude: 138.34853]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="id">
+            <value>94.0</value>
+          </Data>
+          <Data name="alt_name">
+            <value>PAPUA</value>
+          </Data>
+          <Data name="latitude">
+            <value>-3.98857</value>
+          </Data>
+          <Data name="longitude">
+            <value>138.34853</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            138.34853,-3.98857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
